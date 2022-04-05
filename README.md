@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently working on QA.
-- 🌱 I’m currently learning BDD, TDD. Moreover, I'm learning JavaScript and NodeJs.
+- 🌱 I'm learning JavaScript and NodeJs.
+- 🌱 I'm learning Dart and Flutter.
 
 
 
