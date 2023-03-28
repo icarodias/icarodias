@@ -1,7 +1,7 @@
 ### Hi. I'm Ícaro Dias.
 
 
-- 🔭 I’m currently working on QA.
+- 🔭 I’m currently working on JAVA and Spring framework project, I am developing a Rest API.
 - 🌱 I'm learning JavaScript and NodeJs.
 - 🌱 I'm learning Dart and Flutter.
 
